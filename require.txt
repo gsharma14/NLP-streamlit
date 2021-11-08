@@ -91,7 +91,7 @@ streamlit==0.81.1
 sumy==0.8.1
 terminado==0.9.4
 testpath==0.4.4
-textblob==0.15.3
+textblob==0.17.1
 thinc==8.0.3
 threadpoolctl==2.1.0
 toml==0.10.2
